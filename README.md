@@ -1,7 +1,7 @@
 # Jarek - The Desktop Assistant
 Well, Hi there!! This is your personal desktop assistant -Jarek. So, many of you will ask "Yeah there are a lots of Desktop Assitants or Virtual Assistants. What's new?" So, Let me explain you.
 
-##### The program is in the release tab bcoz GitHub doesn't support files larger than 25 mb.
+### The program is in the release tab bcoz GitHub doesn't support files larger than 25 mb.
 
 Contact - Discord DM me at @Kamal/Legend#8821
 
@@ -21,4 +21,4 @@ See, I don't won't to disclose this trick. Coz I litreally got it in a week. But
 Finally, yes. So I used a ton of complex codes to handle and I won't say anything about it. Just download the folder and open the executable file. Then click virtual assistant button and write '\commands' to get the commands and '\about' to get the about page.
 # IV. Tools and sources
 Every module I used is in Requirements.txt. Go check it out
-# BTW my Jarek is pretty smart. It may rick roll you so see.
+### BTW my Jarek is pretty smart. It may rick roll you so see.
